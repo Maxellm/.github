@@ -1,96 +1,112 @@
-<div align="center">
+<p align="center">
+  <a href="https://www.maxellm.com">
+    <img src="https://raw.githubusercontent.com/Maxellm/.github/main/profile/assets/banner.png" alt="maxellm — Intelligence, by Design. Websites, business software and AI." width="100%">
+  </a>
+</p>
 
-# maxellm
+<h3 align="center">Websites, business software and AI for businesses in Türkiye and worldwide</h3>
 
-**Intelligence, by Design.**
+<p align="center">
+  Built the way we would want them built for ourselves — every detail considered, made to last.<br>
+  <sub><i>Her ayrıntısı düşünülmüş, kalıcı olsun diye yapılmış.</i></sub>
+</p>
 
-AI and machine learning systems for enterprises that need to act on knowledge — not just data.
-
-Based in İzmir, Türkiye · Operating across MENA, Caucasia, and Eastern Europe
-
-[Website](https://maxellm.com) · [Contact](mailto:contact@maxellm.com)
-
-</div>
-
----
-
-## About
-
-Maxellm is a software and AI company founded in İzmir, Türkiye. We partner with enterprises to turn complex data into clear, actionable intelligence — through machine learning, knowledge graphs, and custom AI systems built for the real world.
-
-We're a team that builds what others research: applied AI, shipped as production software.
-
-| | |
-|---|---|
-| **13+** | Projects Delivered |
-| **4** | Industry Verticals |
-| **2** | Active Research Programs |
-| **MENA + Europe** | Market Focus |
-
----
-
-## What We Do
-
-- **LLM & RAG Systems** — Custom retrieval-augmented generation pipelines for enterprise knowledge management and intelligent Q&A
-- **Decision Intelligence** — Predictive models and graph neural networks that surface what matters inside complex data sets
-- **AI Research & Development** — Applied research programs, including graph-based survival prediction in oncology and biomedical AI
-- **IoT & Edge AI** — Smart systems with real-time inference at the edge, from computer vision deployments to sensor networks
-- **Digital Product Engineering** — Full-stack platforms: marketplaces, hospitality systems, service products, and SaaS
-- **AI Strategy & Advisory** — Helping leadership teams in MENA and Europe define and execute their AI adoption roadmap
-
----
-
-## Selected Work
-
-| Project | Category | Description |
-|---|---|---|
-| **Aether** | AI · Academic Discovery | A conversational AI research assistant for academic expert and paper discovery, powered by semantic search across four specialized databases and a force-directed knowledge graph |
-| **Argus** | RAG · Enterprise AI | A RAG-based Confluence knowledge assistant — ask questions in natural language and get answers grounded in your organisation's wiki, powered by ChromaDB and Claude |
-| **CogniQ** | Marketplace · Data Platform | A marketplace for verified-human organic data for AI, with full identity, quality, and payment pipelines |
-| **UNIJOB** | Marketplace · Platform | A talent marketplace connecting university students with vetted opportunities across Türkiye and the region |
-| **ArkadasOtoCam** | Service Product | A digital service platform for automotive glass repair, built for operations at scale |
-| **İnziva Hotel** | Hospitality | A booking and management system for a boutique retreat, designed for clarity and calm |
-| **Atölye Emel** | E-commerce | An online storefront for an atelier — quiet design, considered detail, frictionless checkout |
-| **Smart Mirror** | IoT · Computer Vision | An edge-AI mirror with real-time vision inference for retail and hospitality environments |
-| **RAG Knowledge System** | LLM · Enterprise | A retrieval-augmented generation platform that turns unstructured enterprise archives into a queryable, audited knowledge layer |
-| **Cancer Prognosis GNN** | Research · Biomedical AI | Graph neural networks trained on TCGA-BRCA expression data to predict patient survival — interpretable, clinically grounded, rigorously validated |
-
----
-
-## Research
-
-We work on problems that matter.
-
-- **Cancer Prognosis via GNN** *(Active)* — Graph neural networks trained on TCGA-BRCA genomic expression data to predict patient survival outcomes. Interpretable, clinically grounded, and rigorously validated.
-- **LLM-Augmented Decision Systems** *(In Development)* — Combining large language models with enterprise knowledge graphs to deliver context-aware, explainable recommendations at the point of decision.
-
----
-
-## Repositories
-
-| Repository | Visibility | Primary Language | Status |
-|---|---|---|---|
-| [`project-ballast`](https://github.com/Maxellm/project-ballast) | Private | Python | Active development |
-| [`project-cortex`](https://github.com/Maxellm/project-cortex) | Private | Python | Active development |
-| [`project-portal-fitness`](https://github.com/Maxellm/project-portal-fitness) | Private | Python | Active development |
-| [`inziva-otel`](https://github.com/Maxellm/inziva-otel) | Private | TypeScript | In progress |
-| [`.github`](https://github.com/Maxellm/.github) | Public | — | Org profile |
-
-Most of our work lives in private client and product repositories. This organization README, and the `.github` repo that hosts it, are the public-facing entry point to what we do.
-
----
-
-## Contact
-
-We're open to new projects, research partnerships, and advisory engagements across our focus markets.
-
-**contact@maxellm.com**
-İzmir, Türkiye · MENA · Caucasia · Eastern Europe
-
-<div align="center">
+<p align="center">
+  <a href="https://www.maxellm.com"><img src="https://img.shields.io/badge/Website-14140F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.maxellm.com/tr"><img src="https://img.shields.io/badge/Türkçe-14140F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Türkçe"></a>
+  <a href="mailto:hello@maxellm.com"><img src="https://img.shields.io/badge/hello%40maxellm.com-14140F?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
+  <a href="https://wa.me/447520664269"><img src="https://img.shields.io/badge/WhatsApp-C8B89A?style=for-the-badge&logo=whatsapp&logoColor=14140F" alt="WhatsApp"></a>
+  <a href="https://www.instagram.com/maxellm.ai/"><img src="https://img.shields.io/badge/Instagram-C8B89A?style=for-the-badge&logo=instagram&logoColor=14140F" alt="Instagram"></a>
+</p>
 
 <br>
 
-© 2026 Maxellm. All rights reserved.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🌐 Websites · <i>Web siteleri</i></h3>
+      <ul>
+        <li>Three packages: a one-page site, a multi-page site with its own admin panel, and a site with bookings and online payments.</li>
+        <li>From a one-page site live in 5 days to a site with booking and payments live in 10.</li>
+      </ul>
+      <p><a href="https://www.maxellm.com/#packages"><b>See the packages →</b></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🗂️ Business software · <i>İş yazılımı</i></h3>
+      <ul>
+        <li>Bookings, memberships, service jobs and orders in one system.</li>
+        <li>On the web and on phones, with an admin panel your team actually uses.</li>
+      </ul>
+      <p><a href="https://www.maxellm.com/#work"><b>See the work →</b></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧠 AI on your own data · <i>Kendi verinizle yapay zekâ</i></h3>
+      <ul>
+        <li>Assistants that answer from your company's documents and show the page each answer came from.</li>
+        <li>Prediction models trained on your data.</li>
+      </ul>
+      <p><a href="https://www.maxellm.com/#contact"><b>Talk to us →</b></a></p>
+    </td>
+  </tr>
+</table>
 
-</div>
+### Projects built with precision · *Projeler*
+
+| | Project | What it does |
+| :-- | :-- | :-- |
+| AI · Academic discovery | [**Aether**](https://aether.maxellm.com/) | Finds academic papers and the people who wrote them, and shows how their work connects. |
+| AI · Company documents | [**Argus**](https://argus.maxellm.com/) | Ask a question in everyday language and get an answer from your company's own pages, with a link to the page it came from. |
+| Developer tool · Image generation | [**Seedstone Studio**](https://studio.seedstone.xyz/) | Describe the picture you want in writing, and Studio builds a generator that draws it. |
+| Hospitality | **İnziva Hotel** | A booking and management system for a boutique retreat, designed for clarity and calm. |
+| Service product | [**ArkadasOtoCam**](https://arkadasotocam.com.tr/) | A service platform for car glass repair, built to keep a busy operation organised. |
+| Performance · Coaching | [**Anıl Sorgun**](https://anil.portalfitness.com.tr/v2) | A coaching platform: intake forms, a movement library, posture work and progress tracking for every client. |
+| Platform · Sports & fitness | [**Portal Fitness**](https://portalfitness.com.tr/) | A member portal for a gym in Çanakkale: book a class, see the trainers, manage a membership, follow your progress. |
+
+### Our own products · *Kendi ürünlerimiz*
+
+Games, software and devices we make ourselves, held to the same standard as client work.
+
+| | |
+| :-- | :-- |
+| **halfway: ciel & mer** | Ciel rises, Mer falls. Keep both safe, and in step, one tap at a time. |
+| **huddle** | A party game for one phone, with questions about the people in the room. |
+| **CogniQ** | Verified-human data, by humans. |
+| **Seedstone** | A picture of its own for every name, wallet and agent. |
+| **Smart Mirror** | A mirror that sees, and keeps every picture to itself. |
+| **UNIJOB** | Post today, a shift tomorrow. |
+
+### Research · *Araştırma*
+
+Our AI research is now on predicting survival in cancer patients — graph neural networks over genomic expression data, built to be interpretable and clinically grounded.
+
+### Built with
+
+<p>
+  <img src="https://img.shields.io/badge/Python-14140F?style=flat-square&logo=python&logoColor=C8B89A" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-14140F?style=flat-square&logo=fastapi&logoColor=C8B89A" alt="FastAPI">
+  <img src="https://img.shields.io/badge/TypeScript-14140F?style=flat-square&logo=typescript&logoColor=C8B89A" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-14140F?style=flat-square&logo=react&logoColor=C8B89A" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-14140F?style=flat-square&logo=nextdotjs&logoColor=C8B89A" alt="Next.js">
+  <img src="https://img.shields.io/badge/Flutter-14140F?style=flat-square&logo=flutter&logoColor=C8B89A" alt="Flutter">
+  <img src="https://img.shields.io/badge/PostgreSQL-14140F?style=flat-square&logo=postgresql&logoColor=C8B89A" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Neo4j-14140F?style=flat-square&logo=neo4j&logoColor=C8B89A" alt="Neo4j">
+  <img src="https://img.shields.io/badge/PyTorch-14140F?style=flat-square&logo=pytorch&logoColor=C8B89A" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Docker-14140F?style=flat-square&logo=docker&logoColor=C8B89A" alt="Docker">
+  <img src="https://img.shields.io/badge/Cloudflare-14140F?style=flat-square&logo=cloudflare&logoColor=C8B89A" alt="Cloudflare">
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.maxellm.com">
+    <img src="https://raw.githubusercontent.com/Maxellm/.github/main/profile/assets/mark.svg" alt="maxellm" width="56">
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    maxellm · İzmir, Türkiye<br>
+    Intelligence, by Design.<br>
+    <a href="mailto:hello@maxellm.com">hello@maxellm.com</a>
+  </sub>
+</p>
